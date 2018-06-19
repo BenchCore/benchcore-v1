@@ -1,0 +1,225 @@
+{
+  "bench": {
+    "messagePrefix": "BEX message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 23,
+    "wif": 170,
+    "client": {
+      "token":"BEX",
+      "symbol":"ƀ",
+      "explorer":"https://explore.benchcore.io"
+    }
+  },
+  "bitcoin": {
+    "messagePrefix": "Bitcoin message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 1,
+    "wif": 1,
+    "client": {
+      "token":"Bitcoin",
+      "symbol":"B"
+    }
+  },
+  "benchtest": {
+    "messagePrefix": "TEXNET message:\n",
+    "bip32": {
+      "public": 70617039,
+      "private": 70615956
+    },
+    "pubKeyHash": 82,
+    "wif": 186,
+    "client": {
+      "token":"TEX",
+      "symbol":"Ⱦ",
+      "explorer":"http://texnet.benchcore.io."
+    }
+  },
+  "bpnet": {
+    "messagePrefix": "BEN message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 25,
+    "wif": 170,
+    "client": {
+      "token":"BEN",
+      "symbol":"Ƀ",
+      "explorer":"http://benex.bex.io"
+    }
+  },
+  "bptest": {
+    "messagePrefix": "BENT message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 25,
+    "wif": 170,
+    "client": {
+      "token":"BENT",
+      "symbol":"ɃT",
+      "explorer":"http://bentex.bex.io"
+    }
+  },
+  "muznet": {
+    "messagePrefix": "MUZ message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 50,
+    "wif": 170,
+    "client": {
+      "token":"MUZ",
+      "symbol":"ᵯ",
+      "explorer":"http://muzex.bex.life"
+    }
+  },
+  "muztest": {
+    "messagePrefix": "MUZTEST message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 50,
+    "wif": 170,
+    "client": {
+      "token":"MUZT",
+      "symbol":"ᵯT",
+      "explorer":"http://muztex.bex.life"
+    }
+  },
+  "shopnet": {
+    "messagePrefix": "SHOP message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 63,
+    "wif": 170,
+    "client": {
+      "token":"SHOP",
+      "symbol":"§",
+      "explorer":"http://shopex.bex.life"
+    }
+  },
+  "shoptest": {
+    "messagePrefix": "SHOT message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 63,
+    "wif": 170,
+    "client": {
+      "token":"SHOT",
+      "symbol":"§T",
+      "explorer":"http://shotex.bex.life"
+    }
+  },
+  "sharenet": {
+    "messagePrefix": "SHARE message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 63,
+    "wif": 170,
+    "client": {
+      "token":"SHARE",
+      "symbol":"Ξ",
+      "explorer":"http://sharex.bex.life"
+    }
+  },
+  "sharetest": {
+    "messagePrefix": "SHARETEST message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 63,
+    "wif": 170,
+    "client": {
+      "token":"SHART",
+      "symbol":"ΞT",
+      "explorer":"http://shartex.bex.life"
+    }
+  },
+  "dannet": {
+    "messagePrefix": "DAN message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 30,
+    "wif": 170,
+    "client": {
+      "token":"DAN",
+      "symbol":"🅳",
+      "explorer":"http://danex.bex.life"
+    }
+  },
+  "dantest": {
+    "messagePrefix": "DANTEST message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 30,
+    "wif": 170,
+    "client": {
+      "token":"DANT",
+      "symbol":"🅳T",
+      "explorer":"http://dantex.bex.life"
+    }
+  },
+  "vidnet": {
+    "messagePrefix": "VID message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 70,
+    "wif": 170,
+    "client": {
+      "token":"VID",
+      "symbol":"ⱴ",
+      "explorer":"http://videx.bex.life"
+    }
+  },
+  "vidtest": {
+    "messagePrefix": "VIDTEST message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 70,
+    "wif": 170,
+    "client": {
+      "token":"VIDT",
+      "symbol":"ⱴT",
+      "explorer":"http://vidtex.bex.life"
+    }
+  },
+  "devnet": {
+    "messagePrefix": "DEVNET message:\n",
+    "bip32": {
+      "public": 46090600,
+      "private": 46089520
+    },
+    "pubKeyHash": 30,
+    "wif": 170,
+    "client": {
+      "token":"DEX",
+      "symbol":"Ḏ",
+      "explorer":"http://dex.bex.life"
+    }
+  }
+}

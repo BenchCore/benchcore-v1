@@ -1,0 +1,149 @@
+{
+  "port": 6620,
+  "address": "0.0.0.0",
+  "version": "0.0.1",
+  "fileLogLevel": "info",
+  "logFileName": "logs/benchcore.log",
+  "consoleLogLevel": "debug",
+  "trustProxy": false,
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "bench_bench",
+    "user": null,
+    "password": "password",
+    "poolSize": 20,
+    "poolIdleTimeout": 30000,
+    "reapIntervalMillis": 1000,
+    "logEvents": [
+      "error"
+    ]
+  },
+  "api": {
+    "mount": true,
+    "access": {
+      "whiteList": []
+    },
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      }
+    }
+  },
+  "peers": {
+    "minimumNetworkReach": 1,
+    "list": [
+      {
+        "ip": "127.0.0.1",
+        "port": 6620
+      },
+      {
+        "ip": "127.0.0.2",
+        "port": 6620
+      },
+      {
+        "ip": "127.0.0.3",
+        "port": 6620
+      },
+      {
+        "ip": "127.0.0.4",
+        "port": 6620
+      },
+      {
+        "ip": "127.0.0.5",
+        "port": 6620
+      }
+    ],
+    "blackList": [],
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      },
+      "maxUpdatePeers": 20,
+      "timeout": 5000
+    }
+  },
+  "forging": {
+    "coldstart": 6,
+    "force": true,
+    "secret": [
+      "thunder raven fly wait drill memory fragile demand away improve trust mixture",
+      "pulp combine slush aware phrase spice receive recipe enroll enrich early region",
+      "duck oxygen humor mind layer picnic blood traffic harvest beyond device cotton",
+      "insect thank exhaust above diagram hip about crush chef swift host race",
+      "basket cupboard sweet drill news bubble acid glow trim clip spike blade",
+      "smooth ghost shrug shift poet phrase member awesome segment alien good possible",
+      "gate vehicle odor riot siren song reason patrol imitate orange during december",
+      "wrist estate devote budget endorse ivory waste scrub image buffalo pretty broken",
+      "sock keep solve develop setup sheriff bonus width setup toast custom code",
+      "repair ice expect tone zero foster immense cage hospital cave welcome mercy",
+      "carpet senior favorite nephew crane general ordinary net short topple large poverty",
+      "erosion imitate nothing wage nephew fresh become point cave trust observe coin",
+      "shed cheap clip power oppose gesture village royal govern junior insect excite",
+      "lawn roof disagree they depth harbor great fatigue dose black useful tenant",
+      "daughter group identify uniform alter dad repeat hazard oil camp rapid kind",
+      "enemy circle match cave embark message fade plug crouch blue anchor trial",
+      "talent word tired plate render glass brush local suspect bird uphold resist",
+      "anger federal pelican struggle derive initial small rail voice donor father gloom",
+      "layer recall dune spatial man salute turtle outside chicken garden suspect uphold",
+      "feed code road vessel apart decade panic layer rude wheat solution false",
+      "marriage element tennis window odor anchor live roof pilot coffee juice sheriff",
+      "phone jeans age bring dolphin vault twelve funny horn raise blame amused",
+      "general unfair indicate citizen whisper enlist enjoy bridge melt dove boring chapter",
+      "impulse energy today fever garage script tackle yard garment maximum trust sniff",
+      "material rent wife dash record phrase trim you jaguar comfort catch tribe",
+      "pony bunker ski silk culture shuffle lemon execute era burden machine service",
+      "echo thunder fix genuine orange hard jump rice diamond thought school pole",
+      "hover broken stone tent retreat open cat pink purpose fold grunt february",
+      "warfare pyramid slow bone have high seminar puppy core tower fiction above",
+      "match obvious spray exercise clinic zoo harsh range tower more bronze medal",
+      "leisure enjoy quote width spy scissors west spider giraffe escape ice another",
+      "prize actor angry talk wheat practice steak culture arch catch hurdle pet",
+      "riot oyster picture expect chair earth remain into loop case priority test",
+      "coach gravity crystal basic still exit object resource assist cushion antique garden",
+      "reason buddy month ripple echo clever idle fiber design wasp north tunnel",
+      "odor ocean door deposit cushion despair burden holiday pupil moral vacuum scrub",
+      "radio weird symbol quit lake school state poet error other echo panther",
+      "minute about swing issue helmet push frog chest tornado tree empty busy",
+      "wrap label spatial alter lunch govern coil laundry unique super inherit banana",
+      "crowd host clap soda wrap weekend vote pave knock team dwarf welcome",
+      "scorpion sunny illness survey exercise ready soup layer dirt citizen other bind",
+      "rather visa math ship item cute sure main filter doctor wonder tail",
+      "baby lemon broom actress jump october jungle yellow purchase toddler grab easily",
+      "raise high nest frozen wing trumpet girl champion wisdom dose exit nephew",
+      "estate spare error trim switch spot stuff mammal hungry boat dizzy surprise",
+      "basic fire omit amount own ladder symbol search sand vacuum winner gallery",
+      "have two blue radio act eye toe era armed choice stumble special",
+      "park pull marriage walk minor acoustic topic stock uphold pottery struggle foil",
+      "balcony giggle unfair crack believe hurt obtain witness trick flash speak answer",
+      "echo patrol isolate artist theme ranch mosquito explain hungry nothing churn party",
+      "visit used pulp cart renew shoulder proof pitch camp powder clump fatigue"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/bench.key",
+      "cert": "./ssl/bench.crt"
+    }
+  },
+  "network": "bench",
+  "nethash": "04a6db11cc1a203404bfc763afd3dc71145f5795d669afa773c7beb49ad714d5"
+}
