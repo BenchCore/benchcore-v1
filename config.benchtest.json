@@ -9,7 +9,7 @@
   "db": {
     "host": "localhost",
     "port": 5432,
-    "database": "benchtest_benchtest",
+    "database": "bench_test",
     "user": null,
     "password": "password",
     "poolSize": 20,
@@ -93,5 +93,5 @@
     }
   },
   "network": "benchtest",
-  "nethash": "3643f78454f7d271e1131d57e6f388b5211f3b6d739007bc96a54eda5cef425f"
+  "nethash": "08342b1ec5cf90a4f6be50f0273eb205bd8cd29f7dca8897f2d5e5e0975ef401"
 }

@@ -5,12 +5,12 @@
       "public": 46090600,
       "private": 46089520
     },
-    "pubKeyHash": 23,
+    "pubKeyHash": 25,
     "wif": 170,
     "client": {
       "token":"BEX",
       "symbol":"ƀ",
-      "explorer":"https://explore.benchcore.io"
+      "explorer":"https://bex.bex.life"
     }
   },
   "bitcoin": {
@@ -32,12 +32,12 @@
       "public": 70617039,
       "private": 70615956
     },
-    "pubKeyHash": 82,
+    "pubKeyHash": 25,
     "wif": 186,
     "client": {
       "token":"TEX",
       "symbol":"Ⱦ",
-      "explorer":"http://texnet.benchcore.io."
+      "explorer":"http://texnet.bex.life"
     }
   },
   "bpnet": {
@@ -51,7 +51,7 @@
     "client": {
       "token":"BEN",
       "symbol":"Ƀ",
-      "explorer":"http://benex.bex.io"
+      "explorer":"http://benex.bex.life"
     }
   },
   "bptest": {
@@ -65,7 +65,7 @@
     "client": {
       "token":"BENT",
       "symbol":"ɃT",
-      "explorer":"http://bentex.bex.io"
+      "explorer":"http://bentex.bex.life"
     }
   },
   "muznet": {

@@ -1,0 +1,149 @@
+{
+  "port": 6619,
+  "address": "0.0.0.0",
+  "version": "0.0.1",
+  "fileLogLevel": "info",
+  "logFileName": "logs/benchtest.log",
+  "consoleLogLevel": "debug",
+  "trustProxy": false,
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "benchtest_benchtest",
+    "user": null,
+    "password": "password",
+    "poolSize": 20,
+    "poolIdleTimeout": 30000,
+    "reapIntervalMillis": 1000,
+    "logEvents": [
+      "error"
+    ]
+  },
+  "api": {
+    "mount": true,
+    "access": {
+      "whiteList": []
+    },
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      }
+    }
+  },
+  "peers": {
+    "minimumNetworkReach": 1,
+    "list": [
+      {
+        "ip": "127.0.0.1",
+        "port": 6619
+      },
+      {
+        "ip": "127.0.0.2",
+        "port": 6619
+      },
+      {
+        "ip": "127.0.0.3",
+        "port": 6619
+      },
+      {
+        "ip": "127.0.0.4",
+        "port": 6619
+      },
+      {
+        "ip": "127.0.0.5",
+        "port": 6619
+      }
+    ],
+    "blackList": [],
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      },
+      "maxUpdatePeers": 20,
+      "timeout": 5000
+    }
+  },
+  "forging": {
+    "coldstart": 6,
+    "force": true,
+    "secret": [
+      "despair health near enable menu relief scrub captain armed talk narrow verify",
+      "exist cigar tobacco kiwi reveal air pride kick amateur marine job loyal",
+      "lend boil kitten scrap olympic pet real group lion school label coil",
+      "vibrant diet surface item giggle control pause vessel elevator sample build slight",
+      "crowd absent cushion labor grape choice scout exchange ancient bracket device bench",
+      "speak stage zoo brisk priority core month tornado equal park tide input",
+      "forest session rule orient increase pilot vessel please bargain anchor stem speak",
+      "spell ship try happy hard patch donkey flower vanish track abuse snack",
+      "plug illness couple imitate hen future embody doctor among pause inherit now",
+      "cream version climb course opera burger hawk mushroom drip lesson surge clever",
+      "attract leopard rebuild about double prize chuckle fringe bike denial tongue world",
+      "clarify slice fix gaze mimic impact win enrich rapid gather priority observe",
+      "civil prison pond antenna decline keen become palm skin rely impact proof",
+      "flush cattle recycle dog volcano basic cargo cute inspire search inflict tongue",
+      "guitar guitar enact icon upon route laundry scrap wheat apart offer clog",
+      "chronic adult win box voyage foam okay oppose cart decide arrest clever",
+      "message brown enable swear vicious giggle bubble frown nothing quote mosquito donate",
+      "direct casual dash between grit case battle teach crop hint gate sorry",
+      "mystery behave lift repeat minor clip when advice hamster inflict vast weasel",
+      "wheat help top urban cereal solid stairs drive goddess verify unique spice",
+      "allow thing keen slight innocent wedding panel habit short maple nothing multiply",
+      "breeze defy impulse reward tornado wrestle six habit match uniform old toast",
+      "wheel cigar embrace clown snow loud lottery truth neutral december thumb load",
+      "stand few surprise fiscal husband asthma scan glare fence avoid opera filter",
+      "thank fish truly cage tomorrow guitar decade search wide taxi illegal piano",
+      "pledge quarter drama dinner genre sunny domain gather album business current flush",
+      "legend range dinner prepare sibling uncle wink gun silly symbol impulse squeeze",
+      "diesel give notable phone record firm vendor adult broom eyebrow entire brown",
+      "basket develop camera diary cup water heart family subway champion venture arrest",
+      "aim rally slogan industry wet ring cage stem airport actual unique nice",
+      "alpha trade hour village now leisure oven wide snake few method october",
+      "salt escape come will sustain urge cover era phone poet occur ignore",
+      "enroll ugly snap glow used buddy light dial scrub oyster sell plug",
+      "rail near rigid name correct nasty waste demand annual mean secret ability",
+      "churn blanket gaze people soon december raw fossil crime taste must forest",
+      "physical outdoor burden help wear mixture few scan rebuild rotate decorate decorate",
+      "ticket miracle midnight two announce occur almost swallow tell cruise prevent together",
+      "keep taxi analyst brown ceiling brain lady fetch find current peanut almost",
+      "tent zero bracket toddler lazy cradle wise mass mixed vicious divorce chronic",
+      "rare response present orbit enemy rescue lady cigar broccoli reform knee pole",
+      "cart afraid bright aim town catch assault obvious hover token useful spend",
+      "company divert mesh crouch island rice exclude bulb jump domain weird trash",
+      "dad fresh patrol eyebrow total mushroom bracket film element mutual wrist detect",
+      "average wrap movie promote unfold adult ice despair dream artefact demand dish",
+      "bread brush menu pilot fame bleak under mandate birth rapid labor library",
+      "legend cupboard require enter remain buffalo turtle inmate chase maid shine entry",
+      "artist orange guard girl cushion smile wrap suggest poverty mushroom craft scrub",
+      "meadow end universe creek rapid tourist coin burger long apple twin float",
+      "night volume must forget hen this lottery fog mix hotel amateur toe",
+      "inch unit wing drop finish dignity language unusual female split spend luxury",
+      "plastic mystery air collect web actor critic glide member teach fee hawk"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/bench.key",
+      "cert": "./ssl/bench.crt"
+    }
+  },
+  "network": "benchtest",
+  "nethash": "08342b1ec5cf90a4f6be50f0273eb205bd8cd29f7dca8897f2d5e5e0975ef401"
+}
