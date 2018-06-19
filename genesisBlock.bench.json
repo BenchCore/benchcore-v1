@@ -31,7 +31,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_1",
+          "username": "ricefoundation",
           "publicKey": "02c2dd3a87d38fc3af8b3aac2cc905baa783ecf6be404cd1dca851abd9b8460c0a"
         }
       },
@@ -48,7 +48,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_3",
+          "username": "nomoreheroes",
           "publicKey": "03376ae360e59fe5e59e253d6f02ec3dc867334d43cf704c9161f6397b07230e83"
         }
       },
@@ -65,7 +65,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_4",
+          "username": "michaelx",
           "publicKey": "022cbfb962b0c98b8e99452c7bcc8f241f6469f9ef2cc20e1a623ccb4b627fa248"
         }
       },
@@ -82,7 +82,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_5",
+          "username": "stan",
           "publicKey": "020a6cf5ae80549b9e9ac840df80b2348caa5ca1f9b67591f6cbce2260ed26fefe"
         }
       },
@@ -99,7 +99,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_6",
+          "username": "tablecafe",
           "publicKey": "03560787c00e1e0b49ebfe5d7583014ae1b2e78c06fcce14f2beedcd7e60b38000"
         }
       },
@@ -116,7 +116,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_7",
+          "username": "bexbakery",
           "publicKey": "024b8eb11c307c49d9b8e586265944043a30fbd3278dae98c5dc9642724b577272"
         }
       },
@@ -133,7 +133,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_8",
+          "username": "nickeles",
           "publicKey": "02ef9575785a7b8c5636c5f8c5cea1ad36d9c746fa73636c632fac5fa051f69c4e"
         }
       },
@@ -150,7 +150,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_9",
+          "username": "cointroller",
           "publicKey": "036710527213453bbcaa81bc0e368d0ffa3932b6cbefbae5e4501fb91fdf88a9e1"
         }
       },
@@ -167,7 +167,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_10",
+          "username": "bexfactory",
           "publicKey": "028d606598986fc26e89f7ca82bcf35573652b5f072c737b3c8c9dbea3ef1c5b5a"
         }
       },
@@ -184,7 +184,7 @@
       "timestamp": 0,
       "asset": {
         "delegate": {
-          "username": "genesis_11",
+          "username": "capitalistpig",
           "publicKey": "02cfc2c59f38c79bf1c2bcc7d64e58ac9186dc7b7675e1a9390dba29a224859041"
         }
       },
