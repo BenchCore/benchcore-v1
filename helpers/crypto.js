@@ -1,6 +1,6 @@
 'use strict';
 
-var bench = require('bcorejs');
+var bcorejs = require('bcorejs');
 
 function Crypto(scope){
 	this.scope = scope;
