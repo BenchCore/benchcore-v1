@@ -1,5 +1,18 @@
 # BenchCore MultiChain V1
+```
+  _______   ______   ___   __    ______   ___   ___   ______   ______   ______    ______
+/_______/\ /_____/\ /__/\ /__/\ /_____/\ /__/\ /__/\ /_____/\ /_____/\ /_____/\  /_____/\
+\::: _  \ \\::::_\/_\::\_\\  \ \\:::__\/ \::\ \\  \ \\:::__\/ \:::_ \ \\:::_ \ \ \::::_\/_
+ \::(_)  \/_\:\/___/\\:. `-\  \ \\:\ \  __\::\/_\ .\ \\:\ \  __\:\ \ \ \\:(_) ) )_\:\/___/\
+  \::  _  \ \\::___\/_\:. _    \ \\:\ \/_/\\:: ___::\ \\:\ \/_/\\:\ \ \ \\: __ `\ \\::___\/_
+   \::(_)  \ \\:\____/\\. \`-\  \ \\:\_\ \ \\: \ \\::\ \\:\_\ \ \\:\_\ \ \\ \ `\ \ \\:\____/\
+    \_______\/ \_____\/ \__\/ \__\/ \_____\/ \__\/ \::\/ \_____\/ \_____\/ \_\/ \_\/ \_____\/
 
+
+                                  R E V E L A T I O N  2 0 : 1
+And I saw an angel coming down out of heaven, having the key to the Abyss and holding in his hand a great chain.
+
+```
 Home to the [BenchCore](https://benchcore.io) MultiChain and currently 6 cryptocurrencies - `BEX`, `MUZ`, `DAN`, `SHARE`, `SHOP`, `VID` and more to come. BenchCore gives developers and companies the easiest pathway to launching their own blockchain, explorer, wallets and more, without much development experience.
 
 ## Table of Contents
